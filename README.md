@@ -8,12 +8,12 @@ You can see the live demo of [iCard-Resume](http://ddbullfrog.com/)
 
 This is the web page on desktop browser.
 
-![Desktop](https://github.com/ddbullfrog/iCard-Resume/_assets/normal.jpg)
+![Desktop](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/normal.jpg)
 
 This is the web page on mobile phone.
 
-![Mobile1](https://github.com/ddbullfrog/iCard-Resume/_assets/mobile1.jpg)
-![Mobile2](https://github.com/ddbullfrog/iCard-Resume/_assets/mobile2.jpg)
+![Mobile1](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/mobile1.jpg)
+![Mobile2](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/mobile2.jpg)
 
 ## Getting Started
 -------
