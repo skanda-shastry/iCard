@@ -1,7 +1,7 @@
 # Site settings
 title: ddbullfrog's blog
 description: ddbullfrog's blog
-favicon: /public/img/avatar.JPG
+favicon: /assets/img/avatar.JPG
 baseurl:
 url: http://ddbullfrog.com
 rss_url: /pages/atom.xml
@@ -20,7 +20,7 @@ author:
   github: ddbullfrog
   linkedin: ddbullfrog
   twitter: ddbullfrog
-  gavatar: /public/img/avatar.JPG
+  gavatar: /assets/img/avatar.JPG
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
