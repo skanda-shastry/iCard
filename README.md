@@ -10,11 +10,6 @@ This is the web page on desktop browser.
 
 ![Desktop](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/normal.jpg)
 
-This is the web page on mobile phone.
-
-![Mobile1](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/mobile1.png)
-![Mobile2](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/mobile2.png)
-
 ## Getting Started
 -------
 - [Fork this repository](https://github.com/ddbullfrog/iCard-Resume/fork)
