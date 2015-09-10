@@ -2,8 +2,8 @@
 title: ddbullfrog's blog
 description: ddbullfrog's blog
 favicon: /assets/img/avatar.JPG
-baseurl:
-url: http://ddbullfrog.com
+baseurl: http://ddbullfrog.github.io/iCard-Resume
+url: http://ddbullfrog.github.io/iCard-Resume
 rss_url: /pages/atom.xml
 
 # Build settings
