@@ -1,10 +1,10 @@
 # Site settings
 title: ddbullfrog's blog
 description: ddbullfrog's blog
-favicon: /assets/img/avatar.JPG
+favicon: /iCard-Resume/assets/img/avatar.JPG
 baseurl: http://ddbullfrog.github.io/iCard-Resume
 url: http://ddbullfrog.github.io/iCard-Resume
-rss_url: /pages/atom.xml
+rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
 markdown: kramdown
@@ -20,7 +20,7 @@ author:
   github: ddbullfrog
   linkedin: ddbullfrog
   twitter: ddbullfrog
-  gavatar: /assets/img/avatar.JPG
+  gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
