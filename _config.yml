@@ -2,8 +2,8 @@
 title: Skanda
 description: ddbullfrog's blog
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://skanda-shastry.github.io/iCard-Resume
-url: http://skanda-shastry.github.io/iCard-Resume
+baseurl: http://skanda-shastry.github.io/iCard
+url: http://skanda-shastry.github.io/iCard
 rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
