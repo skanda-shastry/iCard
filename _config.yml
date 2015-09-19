@@ -1,5 +1,5 @@
 # Site settings
-title: Skanda
+title: Resume
 description: ddbullfrog's blog
 favicon: /iCard-Resume/assets/img/avatar.JPG
 baseurl: http://skanda-shastry.github.io/iCard
@@ -11,19 +11,19 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Skanda Shastry
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
+  address: Bangalore, Karnataka
+  email: skanda.shastry02@gmail.com
   link: http://ddbullfrog.com
   weibo:
   github: ddbullfrog
   linkedin: ddbullfrog
-  twitter: ddbullfrog
+  twitter: skanda_ms
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
+      company: ABC Ltd
       location: Auckland, New Zealand
       title: Java Developer
       started: 2014
@@ -75,5 +75,5 @@ author:
       name: AngularJS
       percentage: 80%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: SQL
+      percentage: 75%
