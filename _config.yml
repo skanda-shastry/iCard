@@ -23,18 +23,18 @@ author:
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: ABC Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Exceleron Software Pvt Ltd
+      location: Bangalore, Karnataka
+      title: Associate Product Developer
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: Viamagus Technologies
+      location: Bangalore, Karnataka
+      title: Software Development Intern
+      started: 2013
+      duration: (2013 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
       company: Citigroup Services and Technology (China) Limited
@@ -62,7 +62,7 @@ author:
   programmingSkills:
     - skill1:
       name: Perl
-      percentage: 70%
+      percentage: 80%
     - skill2:
       name: HTML
       percentage: 90%
@@ -71,7 +71,7 @@ author:
       percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 80%
+      percentage: 60%
     - skill5:
       name: SQL
       percentage: 75%
