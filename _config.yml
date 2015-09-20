@@ -65,13 +65,13 @@ author:
       percentage: 80%
     - skill2:
       name: "HTML/CSS"
-      percentage: 90%
+      percentage: 100%
     - skill3:
-      name: JavaScript
+      name: "Javascript/JQuery"
       percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 60%
+      percentage: 50%
     - skill5:
       name: SQL
-      percentage: 75%
+      percentage: 70%
