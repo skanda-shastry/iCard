@@ -64,7 +64,7 @@ author:
       name: Perl
       percentage: 80%
     - skill2:
-      name: HTML
+      name: "HTML/CSS"
       percentage: 90%
     - skill3:
       name: JavaScript
