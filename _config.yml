@@ -1,6 +1,6 @@
 # Site settings
-title: Skanda
-description: ddbullfrog's blog
+title: Resume
+description: Resume Portfolio
 favicon: /iCard-Resume/assets/img/avatar.JPG
 baseurl: http://skanda-shastry.github.io/iCard
 url: http://skanda-shastry.github.io/iCard
@@ -11,30 +11,30 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Skanda Shastry
+  title: Product Developer
+  address: Bangalore, Karnataka
+  email: skanda.shastry02@gmail.com
+  link: http://skanda-shastry.github.io/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: skanda-shastry
+  linkedin: skandashastry02
+  twitter: skanda_ms
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Exceleron Software Pvt Ltd
+      location: Bangalore, Karnataka
+      title: Associate Product Developer
       started: 2014
       duration: (2014 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: Viamagus Technologies
+      location: Bangalore, Karnataka
+      title: Software Development Intern
+      started: 2013
+      duration: (2013 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
       company: Citigroup Services and Technology (China) Limited
@@ -45,35 +45,33 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
+      organization: JNNCE Shimoga
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      major: ComputerScience Engineering
+      started: 2009
+      duration: (2009 - 2013)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+    - language2:
+      name: Kannada
+      proficiency: Native
+
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Perl
+      percentage: 80%
     - skill2:
-      name: Bootstrap
+      name: HTML
       percentage: 90%
     - skill3:
       name: JavaScript
       percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 80%
+      percentage: 60%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: SQL
+      percentage: 75%
