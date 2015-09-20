@@ -1,6 +1,6 @@
 # Site settings
 title: Resume
-description: ddbullfrog's blog
+description: Resume Portfolio
 favicon: /iCard-Resume/assets/img/avatar.JPG
 baseurl: http://skanda-shastry.github.io/iCard
 url: http://skanda-shastry.github.io/iCard
@@ -12,13 +12,13 @@ markdown: kramdown
 # Author settings
 author:
   name: Skanda Shastry
-  title: Java Developer
+  title: Product Developer
   address: Bangalore, Karnataka
   email: skanda.shastry02@gmail.com
-  link: http://ddbullfrog.com
+  link: http://skanda-shastry.github.io/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: skanda-shastry
+  linkedin: skandashastry02
   twitter: skanda_ms
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
@@ -58,18 +58,16 @@ author:
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Perl
+      percentage: 70%
     - skill2:
-      name: Bootstrap
+      name: HTML/CSS
       percentage: 90%
     - skill3:
-      name: JavaScript
+      name: JavaScript/Jquery
       percentage: 80%
     - skill4:
       name: AngularJS
