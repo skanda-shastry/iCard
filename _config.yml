@@ -20,6 +20,14 @@ author:
   github: skanda-shastry
   linkedin: skandashastry02
   twitter: skanda_ms
+  gavatar: ../images/skanda.jpg
+  workHistory:
+    - work1:
+      company: Exceleron Software Pvt Ltd
+      location: Bangalore, Karnataka
+      title: Product Developer
+      started: 2014
+      duration: (2014 - Present)
       description: Hi Skanda Here      sample testing     * fregfgffgffgffgfgfgf
                    rgrttryytrytrytr.
     - work2:
