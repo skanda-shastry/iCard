@@ -29,7 +29,7 @@ author:
       started: 2014
       duration: (2014 - Present)
       description: >
-             *Presently worked as a developer in design & development of Meter Data Management    <br/>                                                                                                                                                                                                                                                        
+             * Presently worked as a developer in design & development of Meter Data Management    <br/>                                                                                                                                                                                                                                                        
              * Extensive working knowledge in the Energy / Utilities domain. ( Meter Data Management, Smart Grid, Smart Metering, AMI, CIS, Asset Management ) <br/>
              * work as an L3 technical support engineer for "MyUsage™ prepaid alert management system".
     - work2:
@@ -38,14 +38,10 @@ author:
       title: Software Development Intern
       started: 2013
       duration: (2013 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: >
+            * Proficent on UI and Frontend Design and Development.(Responsive /adaptive). <br/>
+            * Working knowledge on frontend framework like Jquery & Angular.js. <br/>
+            * Write testcase, assist in debugging,and testing the application.
   educationHistory:
     - education1:
       organization: JNNCE Shimoga
