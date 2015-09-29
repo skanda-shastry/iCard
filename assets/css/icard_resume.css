@@ -416,3 +416,9 @@ hr {
 .badge-right-float {
     float: right;
 }
+.hobbies {
+  display : inline;  
+  margin  : 2px;
+}  
+}
+}
