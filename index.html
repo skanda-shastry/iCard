@@ -133,11 +133,9 @@ layout: default
                     <ul class="list-unstyled list-strip">
                         {% for language in site.author.hobbies %}
                             {% if language.name %}
-                               
                                     <li>
-                                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float">{{ language.proficiency }}</span>{{ language.name }}
+                                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float"></span>{{ language.name }}
                                     </li>
-                                
                             {% endif %}
                         {% endfor %}
                     </ul>
