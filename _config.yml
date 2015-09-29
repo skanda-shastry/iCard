@@ -59,7 +59,15 @@ author:
     - language2:
       name: Kannada
       proficiency: Native
-
+      
+ hobbies:
+    - language1:
+      name: Reading
+      proficiency: Professional
+    - language2:
+      name: Table Tenis
+      proficiency: 
+      
   programmingSkills:
     - skill1:
       name: Perl
