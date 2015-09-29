@@ -63,7 +63,10 @@ author:
   hobbies:
     - hobbies1:
       name: Reading
-      proficiency: 
+      proficiency: asd
+    - hobbies2:
+      name: Reading
+      proficiency:asd
    
       
   programmingSkills:
