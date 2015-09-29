@@ -59,7 +59,12 @@ author:
     - language2:
       name: Kannada
       proficiency: Native
-  
+      
+  hobbies:
+    - hobbies1:
+      name: Reading
+      proficiency: Professional
+   
       
   programmingSkills:
     - skill1:
