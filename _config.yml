@@ -65,9 +65,11 @@ author:
       name: Reading
       proficiency: 
     - hobbies2:
-      name: table tennis
+      name: Table Tennis
       proficiency: 
-   
+   - hobbies3:
+      name: Blogging
+      proficiency: 
       
   programmingSkills:
     - skill1:
