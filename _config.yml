@@ -63,13 +63,10 @@ author:
   hobbies:
     - hobbies1:
       name: Reading
-      proficiency: 
     - hobbies2:
       name: Table Tennis
-      proficiency: 
     - hobbies3:
       name: Blogging
-      proficiency: 
       
   programmingSkills:
     - skill1:
