@@ -125,6 +125,24 @@ layout: default
                     </ul>
                 </div>
             {% endif %}
+            
+            {% if site.author.languages %}
+                <div class="deviter"></div>
+                <h3 class="title with-icon"><span class="fa fa-globe cat-title"></span> Hobbies </h3>
+                <div class="grid-block">
+                    <ul class="list-unstyled list-strip">
+                        {% for language in site.author.languages %}
+                            {% if language.name %}
+                                {% if language.proficiency %}
+                                    <li>
+                                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float">{{ language.proficiency }}</span>{{ language.name }}
+                                    </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
             <div class="deviter"></div>
             <h3 class="title with-icon"><span class="fa fa-location-arrow cat-title"></span> Location</h3>
             <div class="grid-block">
