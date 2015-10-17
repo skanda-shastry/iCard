@@ -79,8 +79,8 @@ author:
       name: "Javascript/JQuery"
       percentage: 80%
     - skill4:
-      name: AngularJS
+      name: BackboneJS
       percentage: 50%
     - skill5:
-      name: SQL
+      name: SQL/PLSQL
       percentage: 80%
