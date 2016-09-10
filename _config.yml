@@ -12,7 +12,7 @@ markdown: kramdown
 # Author settings
 author:
   name: Skanda Shastry
-  title: Product Developer
+  title: Product Solution Engineer
   address: Bangalore, Karnataka
   email: skanda.shastry02@gmail.com
   link: http://skanda-shastry.github.io/
@@ -27,7 +27,7 @@ author:
       location: Bangalore, Karnataka
       title: Product Developer
       started: 2014
-      duration: (2014 - Present)
+      duration: (2014 - 2015)
       description: >
              * Presently worked as a developer in design & development of Meter Data Management    <br/>                                                                                                                                                                                                                                                        
              * Extensive working knowledge in the Energy / Utilities domain. ( Meter Data Management, Smart Grid, Smart Metering, AMI, CIS, Asset Management ) <br/>
