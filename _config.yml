@@ -90,7 +90,7 @@ author:
       name: "Javascript/JQuery"
       percentage: 80%
     - skill4:
-      name: BackboneJS/Ract
+      name: BackboneJS/React
       percentage: 50%
     - skill5:
       name: SQL
