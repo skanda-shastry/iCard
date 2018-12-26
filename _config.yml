@@ -29,10 +29,12 @@ author:
       started: 2016
       duration: (2016 - Present)
       description: >
-             * Presently worked as a developer in design & development of Bank daily transaction,seller Invoice generation.  <br/>                                                                                                                                                                                                                                                        
-             * Extensive working knowledge in the E-commerce/Accounting domain.Provide an end to end Technical solution to the Flipkart Finance team. <br/>
-             * Provide an technical support to the Cost reconcilation,Debtor,Creditors Payout,Customer refund. <br/>
-             * Good technical Knowledge on ruby,mysql working with large scalable, distributed application.
+            • Build,deploying,automating,maintaining & managing cloud based production services to ensure the availability, performance, scalability
+of the system. <br/>
+• Hands on experience in Relational databases,backup, disaster recovery, DBA best practices & data modeling.<br/>
+• Setup up an system Infrastructure, alerts, fault detection,identifies anomalies & system health, Capacity planning,load balancing <br/>
+• Proficient problem solving, troubleshooting,transform the Planning & Accounting business requirement into tech feasibility. majorly
+on Disbursement,Invoice generation,tax computation,Supply Planning,Demand Forecasting. <br/>
     - work2:
       company: Exceleron Software Pvt Ltd
       location: Bangalore, Karnataka
@@ -40,7 +42,7 @@ author:
       started: 2014
       duration: (2014 - 2015)
       description: >
-             * Presently worked as a developer in design & development of Meter Data Management    <br/>                                                                                                                                                                                                                                                        
+             * Prev worked as a developer in design & development of Meter Data Management    <br/>                                                                                                                                                                                                                                                        
              * Extensive working knowledge in the Energy / Utilities domain. ( Meter Data Management, Smart Grid, Smart Metering, AMI, CIS, Asset Management ) <br/>
              * Provide an technical support engineer for "MyUsage™ prepaid alert management system".
     - work3:
@@ -81,17 +83,15 @@ author:
       
   programmingSkills:
     - skill1:
-      name: Perl/Ruby
+      name: "Python/ShellScripting"
       percentage: 80%
     - skill2:
-      name: "HTML/CSS"
-      percentage: 100%
+      name: "MySQL Hbase"
+      percentage: 60%
     - skill3:
-      name: "Javascript/JQuery"
+      name: "DevOps tool"
       percentage: 80%
     - skill4:
-      name: BackboneJS/React
+      name: HTML/CSS Javascript Webservice
       percentage: 50%
-    - skill5:
-      name: SQL
-      percentage: 80%
+   
