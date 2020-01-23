@@ -81,14 +81,14 @@ author:
       
   programmingSkills:
     - skill1:
-      name: "Python/ShellScripting"
-      percentage: 80%
+      name: "Python/Shell Scripting"
+      percentage: 70%
     - skill2:
-      name: "MySQL Hbase"
-      percentage: 60%
+      name: "Datastore MySQL/Hadoop"
+      percentage: 80%
     - skill3:
       name: "DevOps tool"
-      percentage: 80%
+      percentage: 70%
     - skill4:
       name: HTML/CSS Javascript Webservice
       percentage: 50%
