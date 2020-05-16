@@ -12,7 +12,7 @@ markdown: kramdown
 # Author settings
 author:
   name: Skanda Shastry
-  title: Product Solution Engineer
+  title: Operation Engineer
   address: Bangalore, Karnataka
   email: skanda.shastry02@gmail.com
   link: http://skanda-shastry.github.io/iCard
@@ -25,9 +25,9 @@ author:
     - work1:
       company: Flipkart Internet India Pvt Ltd
       location: Bangalore, Karnataka
-      title: Product Solution Engineer
+      title: Operation Engineer
       started: 2016
-      duration: (2016 - Present)
+      duration: (2016 - 2020)
       description: >
              * Build,deploying,automating,maintaining & managing cloud based production services to ensure the availability, performance, scalability of the system. <br/>
              * Hands on experience in Relational databases,backup, disaster recovery, DBA best practices & data modeling.<br/>
@@ -90,6 +90,6 @@ author:
       name: "DevOps tool"
       percentage: 70%
     - skill4:
-      name: HTML/CSS Javascript Webservice
+      name: AWS,Private cloud 
       percentage: 50%
    
